@@ -1,0 +1,351 @@
+@font-face {
+    font-family: 'Akkurat Pro';
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Regular.eot');
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Regular.woff2') format('woff2'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Regular.woff') format('woff'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akkurat Pro';
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Bold.eot');
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Bold.woff2') format('woff2'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Bold.woff') format('woff'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akkurat Pro';
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Italic.eot');
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Italic.woff2') format('woff2'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Italic.woff') format('woff'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Akkurat Pro';
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-BoldItalic.eot');
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-BoldItalic.woff2') format('woff2'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-BoldItalic.woff') format('woff'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Akkurat Light Pro';
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Regular.eot');
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Regular.woff2') format('woff2'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Regular.woff') format('woff'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Akkurat Light Pro';
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Italic.eot');
+    src: url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Italic.woff2') format('woff2'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Italic.woff') format('woff'),
+        url('https://connect.telstraglobal.com/rs/418-XEE-301/images/AkkuratLightPro-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+a, a:focus, a:hover {
+    text-decoration:none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Akkurat Light Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #414141;
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: "Akkurat Light Pro", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #414141;
+}
+
+p {
+    font-family: "Akkurat Light Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.7;
+    margin: 0 0 16px 0;
+    color: #414141;
+}
+
+.header {
+    background:#222;
+    background-image:repeating-linear-gradient(135deg, #c24279, #ea5153 34vmin, #f7ab59 100vmin, #ea5153 166vmin, #c24279 200vmin);
+    background-position: top 0 left;
+    background-size: 283vmin 283vmin;
+    -webkit-animation: background-gradient 30s infinite linear forwards;
+    -moz-animation: background-gradient 30s infinite linear forwards;
+    -o-animation: background-gradient 30s infinite linear forwards;
+    animation: background-gradient 30s infinite linear forwards;
+}
+
+@-webkit-keyframes background-gradient {
+    0%{background-position:0 0}to{background-position:283vmin 283vmin}
+}
+@-moz-keyframes background-gradient {
+    0%{background-position:0 0}to{background-position:283vmin 283vmin}
+}
+@-o-keyframes background-gradient {
+    0%{background-position:0 0}to{background-position:283vmin 283vmin}
+} 
+@keyframes background-gradient { 
+    0%{background-position:0 0}to{background-position:283vmin 283vmin}
+}
+
+.header-main__logo img {
+    float: left;
+    width: 250px;
+}
+
+.event-header {
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.author-card__name {
+    font-family: "Akkurat Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #414141;
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 10px 0 5px 0;
+    padding-top: 10px;
+    border-top: 1px solid hsla(0,0%,82%,.5)
+}
+
+.author-card__title {
+    font-family: "Akkurat Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    color: #666;
+}
+
+.author-content {
+    color: #666;
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.gradient-line {
+    background-image: linear-gradient(-45deg,#c24279,#ea5153 45%,#f7ab59);
+    height: 3px;
+}
+
+.footer {
+    font-family: "Akkurat Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+    color: #787878;
+    text-align: left;
+}
+
+.footer__logo img {
+    width: 172px;
+    height: auto;
+}
+
+.footer__copyright {
+    font-family: "Akkurat Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.6;
+    font-size: 12px;
+}
+
+img, svg {
+    vertical-align: bottom;
+}
+
+.footer__separator {
+    border: 0;
+    border-top: 1px solid #e5e5e5;
+    margin: 20px 0 25px 0;
+}
+
+.footer__navigation {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: -20px;
+}
+
+.footer__navigation li {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0 0 10px 20px;
+}
+
+.footer__navigation--left a {
+    color: #787878;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.panel-info {
+    text-align: center;
+    width: 100%;
+    background-color: #f9f9fa;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+.panel-info__title {
+    display: block;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+    margin-bottom: 36px;
+}
+
+.social-networks {
+    margin: 0;
+    padding: 0;
+}
+
+.social-networks li {
+    display: inline-block;
+    width: 41px;
+    height: 41px;
+    border: 1px solid #787978;
+    border-radius: 50%;
+    color: #787978;
+    margin: 0 5px;
+}
+
+.social-networks a {
+    display: block;
+    color: #787978;
+}
+
+.social-icons {
+    display:inline-flex;
+}
+
+.social-icons li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-networks a:hover {
+    color: #b0b0b1;
+    transition: color .3s ease-in-out, background .3s ease-in-out, opacity .3s ease-in-out, border .3s ease-in-out, visibility .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+
+.button2 {
+    border: none !important;
+    background-color: #f25a00 !important;
+    display: inline-block !important;
+    padding: 8px 15px !important;
+    margin: 0 !important;
+    margin-bottom: 15px !important;
+    outline: none !important;
+    border-radius: 0 !important;
+    font-family: "Akkurat Light Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important; 
+    font-weight: 300 !important;
+    font-style: normal !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    color: #fff !important;
+    position: relative !important;
+    transition: all .2s ease !important;
+    text-align: left !important;
+    min-width: 175px !important;
+}
+
+.button2:focus, .button2:hover {
+    background-color: #d93923 !important;
+}
+
+.button2:focus::after, .button2:hover::after  {
+    margin-right: -5px;
+}
+
+.button--next {
+    min-width: 175px;
+    padding-right: 35px;
+    text-align: left;
+}
+
+.button--next:after {
+    content: "";
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%);
+    right: 15px !important;
+    width: 11px !important;
+    height: 19px !important;
+    background-size: contain;
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11' height='19' viewBox='0 0 11 19' stroke='%23fff' fill='none'%3E%3Cpath d='M1.244.427l9 9-8.75 8.75'/%3E%3C/svg%3E");
+    background-repeat: no-repeat !important;
+    transition: all .2s ease;
+}
+
+@media (max-width: 767px){
+    .footer__logo {
+        width: 58px;
+        overflow: hidden;
+    }
+}
+/* 
+Boolean trigger for Marketo
+
+.header {
+    display: ${showHeader};
+}
+.section-1 {
+    display: ${section1};
+}
+.section-2 {
+    display: ${section2}
+}
+.section-3 {
+    display: ${section3}
+}
+.section-4 {
+    display: ${section4}
+}
+.section-5 {
+    display: ${section5}
+}
+.header {
+    background-image: repeating-linear-gradient(135deg, ${gradient1}, ${gradient2} 34vmin, ${gradient3} 100vmin, ${gradient4} 166vmin, ${gradient5} 200vmin);
+}
+.gradient-line {
+    background-image: linear-gradient(-45deg, ${gradient6}, ${gradient7} 45%, ${gradient8});
+}
+*/
